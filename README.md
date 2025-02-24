@@ -2,32 +2,7 @@
 Arduino課程展示程式
 # 使用電路板
 
-# 語法說明
-Arduino 基本語法
-Jease
-Jease隨筆
-Jease
-
-·
-Follow
-
-Published in
-Jease隨筆
-
-·
-8 min read
-·
-Feb 10, 2020
-8
-
-
-1
-
-
-
-
-最近圖書館翻到一本Python X Arduino 物聯網整合開發實戰，邊看邊學習順便紀錄一下
-
+# Arduino 基本語法說明
 
 簡介
 在Arduino中，我們所編寫的草稿碼是基於C 和 C++ 進行設計改編的程式碼，而在程式結構則是基於Processing的程式語言及Writing的電子程式設計語言，來進行設計而成，而這兩框架都為開源框架。
@@ -247,11 +222,8 @@ int pow(int n, int p)
 }
 而已上便是我們一些函式的用法
 
-總結
-在這一章節中，我們從Arduino的一些資料型態講起，到他的一些基本語法，而其他的基本語法我們或許在後面章節中會使用到，或是可以在需要用到時再查詢即可，在下一章節中，將介紹Arduino的通訊協定與如何與python進行串接
-參考資料取自 【Medium】(https://medium.com/jeasee%E9%9A%A8%E7%AD%86/arduino-%E5%9F%BA%E6%9C%AC%E8%AA%9E%E6%B3%95-a6a580e1650b)
+
+參考資料取自 [Medium](https://medium.com/jeasee%E9%9A%A8%E7%AD%86/arduino-%E5%9F%BA%E6%9C%AC%E8%AA%9E%E6%B3%95-a6a580e1650b)
 # 參考資料
 
 https://cc.ee.ntu.edu.tw/~rbwu/rapid_content/course/IoT_Intro/Ch1_Arduino.pdf
-
-https://medium.com/jeasee%E9%9A%A8%E7%AD%86/arduino-%E5%9F%BA%E6%9C%AC%E8%AA%9E%E6%B3%95-a6a580e1650b#id_token=eyJhbGciOiJSUzI1NiIsImtpZCI6Ijc2M2Y3YzRjZDI2YTFlYjJiMWIzOWE4OGY0NDM0ZDFmNGQ5YTM2OGIiLCJ0eXAiOiJKV1QifQ.eyJpc3MiOiJodHRwczovL2FjY291bnRzLmdvb2dsZS5jb20iLCJhenAiOiIyMTYyOTYwMzU4MzQtazFrNnFlMDYwczJ0cDJhMmphbTRsamRjbXMwMHN0dGcuYXBwcy5nb29nbGV1c2VyY29udGVudC5jb20iLCJhdWQiOiIyMTYyOTYwMzU4MzQtazFrNnFlMDYwczJ0cDJhMmphbTRsamRjbXMwMHN0dGcuYXBwcy5nb29nbGV1c2VyY29udGVudC5jb20iLCJzdWIiOiIxMDIzMTczMDI4NDg0OTA0NzcxOTQiLCJlbWFpbCI6Imt1b2RlcmFuMjAxM0BnbWFpbC5jb20iLCJlbWFpbF92ZXJpZmllZCI6dHJ1ZSwibmJmIjoxNzQwMzY2ODM4LCJuYW1lIjoi5b635r2k6Iqx5belIOmDrSIsInBpY3R1cmUiOiJodHRwczovL2xoMy5nb29nbGV1c2VyY29udGVudC5jb20vYS9BQ2c4b2NMV29fRE5HTjdmLUtIeV9iUlFDWTh1Z3ZULXhvdUl1c29hWkZySnRsVVpwZGg1dlhvOD1zOTYtYyIsImdpdmVuX25hbWUiOiLoirHlt6Ug6YOtIiwiZmFtaWx5X25hbWUiOiLlvrfmvaQiLCJpYXQiOjE3NDAzNjcxMzgsImV4cCI6MTc0MDM3MDczOCwianRpIjoiMjUxNWNjM2MxYmM4YmVmNzc1N2Q0MzkzNDUxOWU4YmNlMGFjYTEwNSJ9.u4lW5WT_KtgcSxpZO44ACpjKL3-zLSIkMoHeJqcX7OLqbb-2CG6dhS2qGgOjZzsN1qZtwjE4xHOb2VEc-ICbOdYfj7NsW47D0KnxhTjwD3uhLmokcgKg9mk8g_OAqdwyx03e7sjYWXpVV4936iQp0aiEVTccHSp2TeEfRUfSIfQVawgFN-1oi7HLlxrdfcAdbrxwFf36T-7lxfIkjDi1PW3tCSZOiO9gsxdzVcwMj7IYZJx5bzQVdjXHvlBT4nS5H9535JNYMuy8G_hyUaNUQ_n4x6QuDBmR5RTUnZ7f0w_kReK_DZA9ZyhnzlWJfsTDQDVrsPj96shUiMXXgpSy0w
